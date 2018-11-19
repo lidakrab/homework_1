@@ -1,0 +1,57 @@
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+
+span {
+     color: red; 
+}
+#p1{
+	font-size: 20px;
+	text-align: none;
+	color:grey;
+   
+   
+}
+ #p2{
+ 	font-size: 30px;
+ 	text-align: none;
+ 	color:pink;
+    
+} 
+.l1 {
+	list-style-type: none;
+}
+.l1:before {
+	content: "· ";
+	margin-top: 10px;
+	padding-right: 80px;
+	}
+.l2 {
+	list-style-type: none;
+
+}
+.l2:before {
+content: "§ ";
+margin-top: 10px;
+padding-right: 10px;
+
+}
+.l3 {
+	list-style-type: none;
+}
+.l3:before {
+content: "o "; 
+margin-top: 10px;
+padding-right: 30px;
+}
+
+li
+{
+	list-style: none;
+}
